@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>head.png</file>
+        <file>apple.png</file>
+        <file>dot.png</file>
+        <file>place.png</file>
+        <file>stylesheet.css</file>
+        <file>death.mp3</file>
+        <file>orange.png</file>
+        <file>apple_eating.mp3</file>
+        <file>orange_eating.mp3</file>
+        <file>counter.png</file>
+    </qresource>
+</RCC>
